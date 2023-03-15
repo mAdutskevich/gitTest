@@ -2,6 +2,11 @@ body {
     background-color: gray;
 }
 
+.feature1 {
+    display: flex;
+    background-color: orange;
+}
+
 .feature2 {
     background-color: green;
 }
